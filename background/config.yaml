@@ -1,0 +1,7 @@
+config:
+  mode: debug
+  version: 0.1
+cadence:
+  server: localhost:7933
+  domain: golang-test
+  tasklist: golang-test-dev
